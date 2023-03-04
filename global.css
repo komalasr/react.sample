@@ -1,0 +1,30 @@
+.divblock{
+    border: 2px solid rgba(0, 128, 0, 0.945);
+    height: 75px;
+    background-color: rgba(0, 128, 0, 0.447);
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    align-items: center;
+    
+}
+
+.menublock ul {
+    display: flex;
+    
+    
+    
+
+}
+.menublock ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+.menublock ul li{
+    list-style: none;
+    margin: 20px;
+}
+h1{
+    padding: 20px;
+}
