@@ -1,0 +1,41 @@
+.divblock1{
+    background-color: rgba(79, 76, 76, 0.982);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    height: 25px;
+    cursor: pointer;
+
+}
+.divblock2,ul,li,a{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.divblock2,ul,li,a:hover{
+    color:rgba(64, 158, 186, 0.765)
+}
+button{
+    padding: 10px 25px;
+    background-color: rgba(64, 158, 186, 0.765);
+    border: none;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    font-size: 15px;
+
+}
+button:hover{
+    background-color:rgba(48, 155, 187, 0.438) ;
+}
+img{
+    height: 100%;
+    width: 10%;
+}
