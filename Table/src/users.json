@@ -1,0 +1,37 @@
+[
+    {
+        "sname":"Kavya I N",
+        "sid":"s01",
+        "sbranch":"Civil Engineering",
+        "ssubject":["Structural","geologycal","traffic"],
+        "sphone":7839564738,
+        "sblood":"A+",
+        "slocation":"Bellari"
+    },
+    {
+        "sname":"Bhavya A G",
+        "sid":"s02",
+        "sbranch":"Computer science",
+        "ssubject":["c++","java","servlet"],
+        "sphone":37239745473,
+        "sblood":"B+",
+        "slocation":"Bangalore"
+    },
+    {
+        "sname":"Sowmya A",
+        "sid":"s03",
+        "sbranch":"Mechanical Engineering",
+        "ssubject":["autocad","som","mom"],
+        "sphone":7490260026,
+        "sblood":"A+",
+        "slocation":"Mysore"
+    }, {
+        "sname":"Divya R A",
+        "sid":"s04",
+        "sbranch":"Electrical and communication",
+        "ssubject":["EEE","pedulum","current"],
+        "sphone":8877445637,
+        "sblood":"0+",
+        "slocation":"Hassan"
+    }
+]
